@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "room": {
+    "party4": "/p/5/5e/UltimateJamParty4.swf",
+    "party3": "/p/3/34/UltimateJamParty3.swf",
+    "party2": "/p/7/78/UltimateJamParty2.swf",
+    "party1": "/p/3/30/UltimateJamParty1.swf",
+    "mtn": "/p/8/8e/UltimateJamMtn.swf",
+    "dojofire": "/p/8/85/UltimateJamDojoFire.swf",
+    "dojohide": "/p/8/89/UltimateJamDojoHide.swf",
+    "dojoext": "/p/6/61/UltimateJamDojoExt.swf",
+    "shack": "/p/5/55/UltimateJamShack.swf",
+    "berg": "/p/c/c8/UltimateJamBerg.swf",
+    "cove": "/p/d/df/UltimateJamCove.swf",
+    "forest": "/p/b/ba/UltimateJamForest.swf",
+    "pizza": "/p/a/aa/UltimateJamPizza.swf",
+    "stage": "/p/4/49/UltimateJamStage.swf",
+    "plaza": "/p/7/77/UltimateJamPlaza.swf",
+    "rink": "/p/7/74/UltimateJamRink.swf",
+    "forts": "/p/e/e9/UltimateJamForts.swf",
+    "lounge": "/p/9/9e/UltimateJamLounge.swf",
+    "dance": "/p/0/03/UltimateJamDance.swf",
+    "coffee": "/p/5/5a/UltimateJamCoffee.swf",
+    "town": "/p/9/91/RoomsTown-UltimateJam.swf",
+    "dock": "/p/2/2b/UltimateJamDock.swf",
+    "attic": "/p/d/d7/UltimateJamAttic.swf",
+    "lodge": "/p/2/21/UltimateJamLodge.swf",
+    "village": "/p/5/5c/UltimateJamVillage.swf",
+    "beacon": "/p/9/92/UltimateJamBeacon.swf",
+    "light": "/p/d/db/UltimateJamLight.swf",
+    "beach": "/p/1/19/UltimateJamBeach.swf"
+  }
+}

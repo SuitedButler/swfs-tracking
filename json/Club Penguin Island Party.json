@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/2/2a/RoomsBeach-ClubPenguinIslandParty.swf",
+    "dock": "/p/6/68/RoomsDock-ClubPenguinIslandParty.swf",
+    "forest": "/p/4/4c/RoomsForest-ClubPenguinIslandParty.swf",
+    "plaza": "/p/1/11/RoomsPlaza-ClubPenguinIslandParty.swf",
+    "village": "/p/c/c6/RoomsVillage-ClubPenguinIslandParty.swf",
+    "forts": "/p/1/17/RoomsForts-ClubPenguinIslandParty.swf",
+    "town": "/p/3/3e/RoomsTown-ClubPenguinIslandParty.swf"
+  }
+}

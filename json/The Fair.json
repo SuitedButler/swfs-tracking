@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/8/8b/TheFair2011Beach.swf",
+    "beacon": "/p/5/54/TheFair2011Beacon.swf",
+    "party": "/p/d/d8/TheFair2011Party.swf",
+    "coffee": "/p/5/54/TheFair2011Coffee.swf",
+    "cove": "/p/3/38/TheFair2011Cove.swf",
+    "dock": "/p/3/34/TheFair2011Dock.swf",
+    "forest": "/p/4/40/TheFair2011Forest.swf",
+    "party3": "/p/5/58/TheFair2011Party3.swf",
+    "party2": "/p/3/3c/TheFair2011Party2.swf",
+    "berg": "/p/c/cb/TheFair2011Berg.swf",
+    "dance": "/p/c/cd/TheFair2011Dance.swf",
+    "pizza": "/p/9/92/TheFair2011Pizza.swf",
+    "plaza": "/p/6/65/TheFair2011Plaza.swf",
+    "mtn": "/p/8/86/TheFair2011Mtn.swf",
+    "village": "/p/5/52/TheFair2011Village.swf",
+    "forts": "/p/d/d8/TheFair2011Forts.swf",
+    "rink": "/p/6/6a/TheFair2011Rink.swf",
+    "town": "/p/9/93/RoomsTown-TheFair2011.swf"
+  }
+}

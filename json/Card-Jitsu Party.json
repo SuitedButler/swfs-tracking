@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/1/14/RoomsBeach-CardJitsuParty2013.swf",
+    "coffee": "/p/b/b2/RoomsCoffee-CardJitsuParty2013.swf",
+    "cove": "/p/7/71/RoomsCove-CardJitsuParty2013.swf",
+    "dock": "/p/9/96/RoomsDock-CardJitsuParty2013.swf",
+    "forest": "/p/7/72/RoomsForest-CardJitsuParty2013.swf",
+    "party1": "/p/7/75/RoomsParty1-CardJitsuParty2013.swf",
+    "pizza": "/p/b/b1/RoomsPizza-CardJitsuParty2013.swf",
+    "plaza": "/p/6/67/RoomsPlaza-CardJitsuParty2013.swf",
+    "mtn": "/p/f/fa/RoomsMtn-CardJitsuParty2013.swf",
+    "lodge": "/p/b/b8/RoomsLodge-CardJitsuParty2013.swf",
+    "village": "/p/c/ca/RoomsVillage-CardJitsuParty2013.swf",
+    "forts": "/p/7/77/RoomsForts-CardJitsuParty2013.swf",
+    "rink": "/p/f/f2/RoomsRink-CardJitsuParty2013.swf",
+    "town": "/p/d/dc/RoomsTown-CardJitsuParty2013.swf"
+  }
+}

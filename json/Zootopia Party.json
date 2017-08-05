@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "room": {
+    "plaza": "/p/9/92/RoomsPlaza-ZootopiaParty.swf",
+    "forts": "/p/5/5f/RoomsForts-ZootopiaParty.swf",
+    "town": "/p/0/0c/RoomsTown-ZootopiaParty.swf",
+    "party1": "/p/8/8e/RoomsParty1-ZootopiaParty.swf",
+    "coffee": "/p/4/48/RoomsCoffee-ZootopiaParty.swf",
+    "dock": "/p/6/69/RoomsDock-ZootopiaParty.swf",
+    "forest": "/p/4/41/RoomsForest-ZootopiaParty.swf",
+    "rink": "/p/e/e3/RoomsRink-ZootopiaParty.swf"
+  }
+}

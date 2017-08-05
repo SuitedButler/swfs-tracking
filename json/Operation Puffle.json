@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/c/cb/OperationPuffleRoomsBeach.swf",
+    "beacon": "/p/1/12/OperationPuffleRoomsBeacon.swf",
+    "book": "/p/7/7e/OperationPuffleRoomsBook.swf",
+    "coffee": "/p/f/f0/OperationPuffleRoomsCoffee.swf",
+    "cove": "/p/2/2d/OperationPuffleRoomsCove.swf",
+    "dock": "/p/1/1a/OperationPuffleRoomsDock.swf",
+    "agentlobbymulti": "/p/7/70/OperationPuffleRoomsAgentlobbymulti",
+    "dojofire": "/p/5/5d/RoomsDojofire-OperationPuffle.swf",
+    "forest": "/p/0/0b/OperationPuffleRoomsForest.swf",
+    "berg": "/p/d/dc/OperationPuffleRoomsBerg.swf",
+    "light": "/p/c/c5/OperationPuffleRoomsLight.swf",
+    "attic": "/p/e/e5/OperationPuffleRoomsAttic.swf",
+    "shack": "/p/d/d7/OperationPuffleRoomsShack.swf",
+    "pet": "/p/3/35/OperationPuffleRoomsPet.swf",
+    "pizza": "/p/d/dd/OperationPuffleRoomsPizza.swf",
+    "plaza": "/p/9/9f/OperationPuffleRoomsPlaza.swf",
+    "hotellobby": "/p/5/55/OperationPuffleRoomsHotelLobby.swf",
+    "hotelroof": "/p/5/5a/OperationPuffleRoomsHotelRoof.swf",
+    "hotelspa": "/p/e/ee/OperationPuffleRoomsHotelSpa.swf",
+    "rink.swf": "/p/3/31/OperationPuffleRoomsRink.swf",
+    "shop": "/p/5/5d/OperationPuffleRoomsShop.swf",
+    "mtn": "/p/b/b0/OperationPuffleRoomsMtn.swf",
+    "lodge": "/p/a/a0/OperationPuffleRoomsLodge.swf",
+    "village": "/p/4/49/OperationPuffleRoomsVillage.swf",
+    "dojosnow": "/p/1/14/RoomsDojosnow-OperationPuffle.swf",
+    "forts": "/p/2/2f/OperationPuffleRoomsForts.swf",
+    "town": "/p/1/14/OperationPuffleRoomsTown.swf",
+    "school": "/p/f/ff/RoomsSchool-OperationPuffle.swf"
+  }
+}

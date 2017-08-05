@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/8/8c/RoomsBeach-FrozenFeverParty.swf",
+    "cove": "/p/8/8a/RoomsCove-FrozenFeverParty.swf",
+    "dock": "/p/0/0f/RoomsDock-FrozenFeverParty2016.swf",
+    "forest": "/p/2/2d/RoomsForest-FrozenFeverParty.swf",
+    "party1": "/p/3/36/RoomsParty1-FrozenFeverParty.swf",
+    "party2": "/p/4/4a/RoomsParty2-FrozenFeverParty.swf",
+    "plaza": "/p/0/06/RoomsPlaza-FrozenFeverParty2016_2.swf",
+    "forts": "/p/f/ff/RoomsForts-FrozenFeverParty2016.swf",
+    "town": "/p/6/63/RoomsTown-FrozenFeverParty2016.swf"
+  }
+}

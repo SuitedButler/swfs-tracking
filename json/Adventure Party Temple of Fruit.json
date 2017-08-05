@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "room": {
+    "town": "/p/f/f3/RoomsTown-TempleofFruit.swf",
+    "beach": "/p/1/19/APToFBeach.swf",
+    "cove": "/p/8/8d/APToFCove.swf",
+    "dock": "/p/8/80/APToFDock.swf",
+    "forest": "/p/6/69/APToFForest.swf",
+    "shop": "/p/2/27/APToFShop.swf",
+    "party3": "/p/b/bc/APToFParty3.swf",
+    "dance": "/p/d/d5/APToFDance.swf",
+    "pizza": "/p/0/0b/APToFPizza.swf",
+    "plaza": "/p/3/3d/APToFPlaza.swf",
+    "forts": "/p/2/2b/APToFForts.swf",
+    "party2": "/p/9/99/APToFParty2.swf",
+    "party1": "/p/e/e0/APToFParty1.swf"
+  }
+}

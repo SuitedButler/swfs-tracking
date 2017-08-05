@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "room": {
+    "boiler": "/p/7/7f/Dance-A-ThonBoiler.swf",
+    "lounge": "/p/3/3e/Dance-A-ThonLounge.swf",
+    "dance": "/p/b/b0/Dance-A-ThonDance.swf",
+    "party": "/p/1/1c/Dance-A-ThonParty.swf",
+    "town": "/p/3/30/Dance-A-ThonTown.swf"
+  }
+}

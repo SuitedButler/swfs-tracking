@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/7/7a/MarvelSuperheroTakeoverBeach.swf",
+    "book": "/p/9/9d/MarvelSuperheroTakeoverBook.swf",
+    "coffee": "/p/1/16/MarvelSuperheroTakeoverCoffee.swf",
+    "dock": "/p/b/bc/MarvelSuperheroTakeoverDock.swf",
+    "party1": "/p/8/8e/MarvelSuperheroTakeoverParty1.swf",
+    "forest": "/p/3/35/MarvelSuperheroTakeoverForest.swf",
+    "shop": "/p/5/55/MarvelSuperheroTakeoverShop.swf",
+    "party3": "/p/e/ec/MarvelSuperheroTakeoverParty3.swf",
+    "berg": "/p/0/05/MarvelSuperheroTakeoverBerg.swf",
+    "shack": "/p/b/bb/MarvelSuperheroTakeoverShack.swf",
+    "pizza": "/p/b/bd/MarvelSuperheroTakeoverPizza.swf",
+    "plaza": "/p/e/e1/MarvelSuperheroTakeoverPlaza.swf",
+    "village": "/p/f/f8/MarvelSuperheroTakeoverVillag.swf",
+    "forts": "/p/2/23/MarvelSuperheroTakeoverForts.swf",
+    "stage": "/p/1/1e/MarvelSuperheroTakeoverStage.swf",
+    "party2": "/p/b/b4/MarvelSuperheroTakeoverParty2.swf",
+    "town": "/p/3/3d/RoomsTown-Marvel2012.swf"
+  }
+}

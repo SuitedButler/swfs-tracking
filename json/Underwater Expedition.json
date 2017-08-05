@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/2/2d/UnderwaterExpeditionBeach.swf",
+    "beacon": "/p/d/d2/UnderwaterExpeditionBeacon.swf",
+    "cove": "/p/c/c9/UnderwaterExpeditionCove.swf",
+    "party7": "/p/1/15/UnderwaterExpeditionParty7.swf",
+    "dock": "/p/7/7e/UnderwaterExpeditionDock.swf",
+    "dojoext": "/p/c/c5/UnderwaterExpeditionDojoExt.swf",
+    "forest": "/p/c/cf/UnderwaterExpeditionForest.swf",
+    "berg": "/p/e/e2/UnderwaterExpeditionBerg.swf",
+    "light": "/p/7/7c/UnderwaterExpeditionLight.swf",
+    "party1": "/p/2/29/UnderwaterExpeditionParty1.swf",
+    "party2": "/p/2/2f/UnderwaterExpeditionParty2.swf",
+    "party3": "/p/3/31/UnderwaterExpeditionParty3.swf",
+    "party4": "/p/7/79/UnderwaterExpeditionParty4.swf",
+    "party5": "/p/0/07/UnderwaterExpeditionParty5.swf",
+    "party6": "/p/9/97/UnderwaterExpeditionParty6.swf",
+    "shack": "/p/4/49/UnderwaterExpeditionShack.swf",
+    "dojohide": "/p/e/e7/UnderwaterExpeditionDojoHide.swf",
+    "plaza": "/p/3/30/UnderwaterExpeditionPlaza.swf",
+    "mtn": "/p/b/bf/UnderwaterExpeditionMtn.swf",
+    "village": "/p/1/17/UnderwaterExpeditionVillage.swf",
+    "forts": "/p/3/3e/UnderwaterExpeditionForts.swf",
+    "rink": "/p/c/cc/UnderwaterExpeditionRink.swf",
+    "town": "/p/1/13/RoomsTown-UnderwaterExpedition.swf"
+  }
+}

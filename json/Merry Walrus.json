@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/4/4b/RoomsBeach-MerryWalrusParty2014.swf",
+    "coffee": "/p/4/4a/RoomsCoffee-MerryWalrusParty2014.swf",
+    "dock": "/p/8/86/RoomsDock-MerryWalrusParty2014.swf",
+    "forest": "/p/5/5c/RoomsForest-MerryWalrusParty2014.swf",
+    "shack": "/p/a/a9/RoomsShack-MerryWalrusParty2014.swf",
+    "plaza": "/p/b/b8/RoomsPlaza-MerryWalrusParty2014.swf",
+    "school": "/p/4/46/RoomsSchool-MerryWalrusParty2014.swf",
+    "forts": "/p/b/bd/RoomsForts-MerryWalrusParty2014.swf",
+    "stage": "/p/b/ba/RoomsStage-MerryWalrusParty2014.swf",
+    "town": "/p/6/63/RoomsTown-MerryWalrusParty2014.swf",
+    "partysolo1": "/p/c/c6/RoomsPartysolo1-MerryWalrusParty2014.swf"
+  }
+}

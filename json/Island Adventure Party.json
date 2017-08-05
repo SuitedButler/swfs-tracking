@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/1/15/IslandAdventureParty2011Beach.swf",
+    "cove": "/p/1/12/IslandAdventureParty2011Cove.swf",
+    "dock": "/p/e/e6/IslandAdventureParty2011Dock.swf",
+    "forest": "/p/1/16/IslandAdventureParty2011Forest.swf",
+    "lake": "/p/5/5a/IslandAdventureParty2011Lake.swf",
+    "berg": "/p/4/46/IslandAdventureParty2011Berg.swf",
+    "dance": "/p/5/53/IslandAdventureParty2011Dance.swf",
+    "pizza": "/p/2/27/IslandAdventureParty2011Pizza.swf",
+    "plaza": "/p/a/aa/IslandAdventureParty2011Plaza.swf",
+    "party2": "/p/c/ca/IslandAdventureParty2011Party2.swf",
+    "shiphold": "/p/b/b7/IslandAdventureParty2011Shiphold.swf",
+    "village": "/p/9/98/IslandAdventureParty2011Village.swf",
+    "forts": "/p/3/3c/IslandAdventureParty2011Forts.swf",
+    "town": "/p/c/c8/RoomsTown-IslandAdventureParty2011.swf",
+    "party": "/p/3/36/IslandAdventureParty2011Party.swf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/a/a0/RoomsBeach-StarWarsRebelsTakeover.swf",
+    "cove": "/p/7/73/RoomsCove-StarWarsRebelsTakeover.swf",
+    "dock": "/p/4/47/RoomsDock-StarWarsRebelsTakeover.swf",
+    "forest": "/p/0/06/RoomsForest-StarWarsRebelsTakeover.swf",
+    "plaza": "/p/f/f6/RoomsPlaza-StarWarsRebelsTakeover.swf",
+    "forts": "/p/5/5c/RoomsForts-StarWarsRebelsTakeover.swf",
+    "town": "/p/1/17/RoomsTown-StarWarsRebelsTakeover.swf",
+    "party1": "/p/3/3a/RoomsParty1-StarWarsRebelsTakeover.swf",
+    "partysolo1": "/p/5/56/RoomsPartysolo1-StarWarsRebelsTakeover.swf",
+    "party2": "/p/3/30/RoomsParty2-StarWarsRebelsTakeover.swf"
+  }
+}

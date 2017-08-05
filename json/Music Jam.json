@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "room": {
+    "cave": "/p/c/c9/RoomsCave-MusicJam2008.swf",
+    "coffee": "/p/d/db/RoomsCoffee-MusicJam2008.swf",
+    "cove": "/p/9/9b/RoomsCove-MusicJam2008.swf",
+    "dojo": "/p/f/f4/RoomsDojo-MusicJam2008.swf",
+    "forest": "/p/a/aa/RoomsForest-MusicJam2008.swf",
+    "berg": "/p/3/3a/RoomsBerg-MusicJam2008.swf",
+    "light": "/p/e/e8/RoomsLight-MusicJam2008.swf",
+    "mine": "/p/7/7f/RoomsMine-MusicJam2008.swf",
+    "dance": "/p/8/8b/RoomsDance-MusicJam2008.swf",
+    "pizza": "/p/3/38/RoomsPizza-MusicJam2008.swf",
+    "plaza": "/p/8/88/RoomsPlaza-MusicJam2008.swf",
+    "village": "/p/5/54/RoomsVillage-MusicJam2008.swf",
+    "town": "/p/7/7b/RoomsTown-MusicJam2008.swf"
+  }
+}

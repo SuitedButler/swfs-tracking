@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/1/15/FestivalOfFlightBeach.swf",
+    "cave": "/p/0/07/FestivalOfFlightCave.swf",
+    "cove": "/p/c/cb/FestivalOfFlightCove.swf",
+    "dock": "/p/b/b5/FestivalOfFlightDock.swf",
+    "forest": "/p/9/97/FestivalOfFlightForest.swf",
+    "party": "/p/8/8e/FestivalOfFlightParty.swf",
+    "berg": "/p/f/fe/FestivalOfFlightBerg.swf",
+    "dance": "/p/f/fa/FestivalOfFlightDance.swf",
+    "plaza": "/p/0/00/FestivalOfFlightPlaza.swf",
+    "mtn": "/p/5/5b/FestivalOfFlightMtn.swf",
+    "village": "/p/2/22/FestivalOfFlightVillage.swf",
+    "forts": "/p/5/53/FestivalOfFlightForts.swf",
+    "party2": "/p/5/55/FestivalOfFlightParty2.swf",
+    "town": "/p/0/0b/RoomsTown-FestivalofFlight.swf"
+  }
+}

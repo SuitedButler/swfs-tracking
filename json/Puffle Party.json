@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/7/7a/PuffleParty2011Beach.swf",
+    "beacon": "/p/c/c7/PuffleParty2011Beacon.swf",
+    "boxdimension": "/p/7/70/PuffleParty2011BoxDimension.swf",
+    "cave": "/p/8/87/PuffleParty2011Cave.swf",
+    "cove": "/p/c/cb/PuffleParty2011Cove.swf",
+    "lounge": "/p/3/33/PuffleParty2011Lounge.swf",
+    "dock": "/p/1/1b/PuffleParty2011Dock.swf",
+    "forest": "/p/5/53/PuffleParty2011Forest.swf",
+    "berg": "/p/8/89/PuffleParty2011Berg.swf",
+    "light": "/p/e/ea/PuffleParty2011Light.swf",
+    "mine": "/p/c/cc/PuffleParty2011Mine.swf",
+    "dance": "/p/c/ce/PuffleParty2011Dance.swf",
+    "party3": "/p/d/dd/PuffleParty2011Party3.swf",
+    "pet": "/p/8/85/PuffleParty2011Pet.swf",
+    "plaza%281%29": "/p/3/37/PuffleParty2011Plaza%281%29.swf",
+    "plaza%282%29": "/p/1/1c/PuffleParty2011Plaza%282%29.swf",
+    "party1": "/p/a/a9/PuffleParty2011Party1.swf",
+    "party2": "/p/6/66/PuffleParty2011Party2.swf",
+    "village": "/p/b/bd/PuffleParty2011Village.swf",
+    "forts": "/p/1/11/PuffleParty2011Forts.swf",
+    "town": "/p/4/43/RoomsTown-PuffleParty2011.swf"
+  }
+}

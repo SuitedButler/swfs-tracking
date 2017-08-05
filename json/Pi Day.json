@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "room": {
+    "forest": "/p/c/cf/PiDayForest.swf",
+    "shack": "/p/1/13/PiDayShack.swf",
+    "plaza": "/p/5/5f/PiDayPlaza.swf",
+    "forts": "/p/f/f4/PiDayForts.swf",
+    "town": "/p/d/df/PiDayTown.swf"
+  }
+}

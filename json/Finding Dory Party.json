@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/7/74/RoomsBeach-FindingDoryParty.swf",
+    "cove": "/p/f/fe/RoomsCove-FindingDoryParty.swf",
+    "dock": "/p/e/e6/RoomsDock-FindingDoryParty.swf",
+    "berg": "/p/6/68/RoomsBerg-FindingDoryParty.swf",
+    "party1": "/p/c/c0/RoomsParty1-FindingDoryParty.swf",
+    "town": "/p/a/ac/RoomsTown-FindingDoryParty.swf"
+  }
+}

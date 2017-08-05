@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "room": {
+    "coffee": "/p/6/68/RoomsCoffee-MedievalParty2013.swf",
+    "party1": "/p/5/54/RoomsParty1-MedievalParty2013.swf",
+    "dock": "/p/6/63/RoomsDock-MedievalParty2013.swf",
+    "forest": "/p/9/9f/RoomsForest-MedievalParty2013.swf",
+    "shack": "/p/d/d7/RoomsShack-MedievalParty2013.swf",
+    "dance": "/p/b/b1/RoomsDance-MedievalParty2013.swf",
+    "pizza": "/p/f/fe/RoomsPizza-MedievalParty2013.swf",
+    "plaza": "/p/d/d7/RoomsPlaza-MedievalParty2013.swf",
+    "school": "/p/b/bf/RoomsSchool-MedievalParty2013.swf",
+    "forts": "/p/6/6f/RoomsForts-MedievalParty2013.swf",
+    "rink": "/p/1/11/RoomsRink-MedievalParty2013.swf",
+    "town": "/p/0/08/RoomsTown-MedievalParty2013.swf",
+    "party2": "/p/9/90/RoomsParty2-MedievalParty2013.swf"
+  }
+}

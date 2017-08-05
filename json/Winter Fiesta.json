@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/f/ff/WinterFiesta2009Beach.swf",
+    "coffee": "/p/a/ac/WinterFiesta2009Coffee.swf",
+    "cove": "/p/8/88/WinterFiesta2009Cove.swf",
+    "dock": "/p/a/ab/WinterFiesta2009Dock.swf",
+    "forest": "/p/e/e4/WinterFiesta2009Forest.swf",
+    "dance": "/p/d/dd/WinterFiesta2009Dance.swf",
+    "pizza": "/p/f/fa/WinterFiesta2009Pizza.swf",
+    "plaza": "/p/9/90/WinterFiesta2009Plaza.swf",
+    "village": "/p/4/4c/WinterFiesta2009Village.swf",
+    "forts": "/p/b/b9/WinterFiesta2009Forts.swf",
+    "town": "/p/b/b8/WinterFiesta2009Town.swf"
+  }
+}

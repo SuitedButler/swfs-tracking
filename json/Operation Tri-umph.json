@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "room": {
+    "mall": "/p/4/40/RoomsMall-OperationDoom.swf",
+    "pizza": "/p/4/4c/RoomsPizza-OperationDoom.swf",
+    "plaza": "/p/a/a1/RoomsPlaza-OperationDoom.swf",
+    "party1": "/p/4/4b/RoomsParty1-OperationDoom.swf",
+    "party2": "/p/e/ea/RoomsParty2-OperationDoom.swf",
+    "party3": "/p/c/cb/RoomsParty3-OperationDoom.swf",
+    "party4": "/p/1/17/RoomsParty4-OperationDoom.swf",
+    "party5": "/p/1/1a/RoomsParty5-OperationDoom.swf",
+    "party6": "/p/a/a4/RoomsParty6-OperationDoom.swf",
+    "party7": "/p/f/ff/RoomsParty7-OperationDoom.swf",
+    "party8": "/p/e/e8/RoomsParty8-OperationDoom.swf",
+    "party9": "/p/4/43/RoomsParty9-OperationDoom.swf",
+    "party10": "/p/8/87/RoomsParty10-OperationDoom.swf",
+    "party11": "/p/1/18/RoomsParty11-OperationDoom.swf",
+    "party12": "/p/a/a2/RoomsParty12-OperationDoom.swf"
+  }
+}

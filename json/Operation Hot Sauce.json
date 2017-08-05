@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/0/01/RoomsBeach-HotSauce.swf",
+    "cove": "/p/0/09/RoomsCove-HotSauce.swf",
+    "party2": "/p/1/11/RoomsParty2-HotSauce.swf",
+    "dock": "/p/8/87/RoomsDock-HotSauce.swf",
+    "agentcom": "/p/0/01/RoomsAgentCom-HotSauce.swf",
+    "party1": "/p/4/42/RoomsParty1-HotSauce.swf",
+    "pizza": "/p/d/df/RoomsPizza-HotSauce.swf",
+    "village": "/p/5/5b/RoomsVillage-HotSauce.swf",
+    "forts": "/p/7/79/RoomsForts-HotSauce.swf",
+    "town": "/p/2/23/RoomsTown-HotSauce.swf"
+  }
+}

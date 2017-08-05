@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "room": {
+    "dock": "/p/8/85/RoomsDock-CaveMaze.swf",
+    "party1": "/p/9/92/RoomsParty1-CaveMaze.swf",
+    "party2": "/p/2/2c/RoomsParty2-CaveMaze.swf",
+    "party3": "/p/1/1c/RoomsParty3-CaveMaze.swf",
+    "party4": "/p/0/08/RoomsParty4-CaveMaze.swf",
+    "party5": "/p/3/3a/RoomsParty5-CaveMaze.swf",
+    "party6": "/p/3/3b/RoomsParty6-CaveMaze.swf",
+    "party7": "/p/3/30/RoomsParty7-CaveMaze.swf",
+    "party8": "/p/e/e6/RoomsParty8-CaveMaze.swf",
+    "party9": "/p/4/47/RoomsParty9-CaveMaze.swf",
+    "party10": "/p/c/c9/RoomsParty10-CaveMaze.swf",
+    "party11": "/p/8/83/RoomsParty11-CaveMaze.swf",
+    "party12": "/p/5/5d/RoomsParty12-CaveMaze.swf",
+    "plaza": "/p/5/59/RoomsPlaza-CaveMaze.swf",
+    "forts": "/p/3/3f/RoomsForts-CaveMaze.swf",
+    "town": "/p/6/60/RoomsTown-CaveMaze.swf"
+  }
+}

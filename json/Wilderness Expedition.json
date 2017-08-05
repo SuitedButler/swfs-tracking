@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "room": {
+    "dock": "/p/c/c9/RoomsDock-WildernessExpedition2016.swf",
+    "party1": "/p/b/bc/RoomsParty1-WildernessExpedition2016.swf",
+    "party2": "/p/a/a7/RoomsParty2-WildernessExpedition2016.swf",
+    "party3": "/p/a/ab/RoomsParty3-WildernessExpedition2016.swf",
+    "party4": "/p/1/1c/RoomsParty4-WildernessExpedition2016.swf",
+    "party5": "/p/0/0b/RoomsParty5-WildernessExpedition2016.swf",
+    "party6": "/p/1/13/RoomsParty6-WildernessExpedition2016.swf",
+    "party7": "/p/7/73/RoomsParty7-WildernessExpedition2016.swf",
+    "party8": "/p/c/cf/RoomsParty8-WildernessExpedition2016.swf",
+    "party9": "/p/3/3f/RoomsParty9-WildernessExpedition2016.swf"
+  }
+}

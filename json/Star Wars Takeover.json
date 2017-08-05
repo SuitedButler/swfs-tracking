@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/b/b0/StarWarsTakeover-RoomsBeach.swf",
+    "dock": "/p/3/3d/StarWarsTakeover-RoomsDock.swf",
+    "berg": "/p/b/bb/StarWarsTakeover-RoomsBerg.swf",
+    "mtn": "/p/d/d7/StarWarsTakeover-RoomsMtn.swf",
+    "village": "/p/b/b4/StarWarsTakeover-RoomsVillage.swf",
+    "town": "/p/3/3f/StarWarsTakeover-RoomsTown.swf",
+    "party1": "/p/c/c4/StarWarsTakeover-RoomsParty1.swf",
+    "party2": "/p/e/e3/StarWarsTakeover-RoomsParty2.swf",
+    "party3": "/p/d/de/StarWarsTakeover-RoomsParty3.swf",
+    "party4": "/p/6/69/StarWarsTakeover-RoomsParty4.swf",
+    "party5": "/p/7/77/StarWarsTakeover-RoomsParty5.swf",
+    "party6": "/p/b/b5/StarWarsTakeover-RoomsParty6.swf",
+    "party7": "/p/2/2f/StarWarsTakeover-RoomsParty7.swf",
+    "party8": "/p/a/ad/StarWarsTakeover-RoomsParty8.swf",
+    "party9": "/p/e/e3/StarWarsTakeover-RoomsParty9.swf",
+    "party10": "/p/1/1d/StarWarsTakeover-RoomsParty10.swf",
+    "party11": "/p/7/7a/StarWarsTakeover-RoomsParty11.swf",
+    "party12": "/p/5/56/StarWarsTakeover-RoomsParty12.swf",
+    "party13": "/p/4/48/StarWarsTakeover-RoomsParty13.swf",
+    "party14": "/p/7/7c/StarWarsTakeover-RoomsParty14.swf",
+    "party15": "/p/3/3d/StarWarsTakeover-RoomsParty15.swf",
+    "party16": "/p/7/78/StarWarsTakeover-RoomsParty16.swf",
+    "party17": "/p/7/76/StarWarsTakeover-RoomsParty17.swf"
+  }
+}

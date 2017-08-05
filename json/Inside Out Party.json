@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "room": {
+    "dock": "/p/d/dc/RoomsDock-InsideOutParty.swf",
+    "party1": "/p/9/98/RoomsParty1-InsideOutParty.swf",
+    "party2": "/p/5/51/RoomsParty2-InsideOutParty.swf",
+    "party3": "/p/9/90/RoomsParty3-InsideOutParty.swf",
+    "party4": "/p/0/03/RoomsParty4-InsideOutParty.swf",
+    "party5": "/p/c/ce/RoomsParty5-InsideOutParty.swf",
+    "party6": "/p/7/7c/RoomsParty6-InsideOutParty.swf"
+  }
+}

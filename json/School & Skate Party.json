@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "room": {
+    "party1": "/p/8/8e/RoomsParty1-School%26SkateParty.swf",
+    "forest": "/p/e/e0/RoomsForest-School%26SkateParty.swf",
+    "party2": "/p/b/b6/RoomsParty2-School%26SkateParty.swf",
+    "shack": "/p/7/77/RoomsShack-School%26SkateParty.swf",
+    "pizzaparlor": "/p/3/34/RoomsPizzaParlor-School%26SkateParty.swf",
+    "plaza": "/p/5/5a/RoomsPlaza-School%26SkateParty.swf",
+    "school": "/p/7/70/RoomsSchool-School%26SkateParty.swf",
+    "stage": "/p/d/da/RoomsStage-School%26SkateParty.swf",
+    "skatepark.swf": "/p/4/4d/RoomsSkatepark.swf"
+  }
+}

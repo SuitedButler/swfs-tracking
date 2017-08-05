@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "room": {
+    "dock": "/p/6/6d/RoomsDock-OperationCrustacean.swf",
+    "party1": "/p/5/54/RoomsParty1-OperationCrustacean.swf",
+    "party2": "/p/8/8d/RoomsParty2-OperationCrustacean.swf",
+    "party6": "/p/5/52/RoomsParty6-OperationCrustacean.swf",
+    "party7": "/p/8/8e/RoomsParty7-OperationCrustacean.swf",
+    "party5": "/p/8/89/RoomsParty5-OperationCrustacean.swf",
+    "party8": "/p/3/3b/RoomsParty8-OperationCrustacean.swf",
+    "party9": "/p/a/a8/RoomsParty9-OperationCrustacean.swf",
+    "party10": "/p/5/5c/RoomsParty10-OperationCrustacean.swf",
+    "party11": "/p/b/bf/RoomsParty11-OperationCrustacean.swf",
+    "party3": "/p/1/10/RoomsParty3-OperationCrustacean.swf",
+    "party4": "/p/a/a2/RoomsParty4-OperationCrustacean.swf",
+    "party12": "/p/0/01/RoomsParty12-OperationCrustacean.swf"
+  }
+}

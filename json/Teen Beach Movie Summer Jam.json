@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "room": {
+    "town": "/p/4/41/RoomsTown-TeenBeachMovieSummerJam.swf",
+    "school": "/p/3/3c/RoomsSchool-TeenBeachMovieSummerJam.swf",
+    "plaza": "/p/d/d1/RoomsPlaza-TeenBeachMovieSummerJam.swf",
+    "beach": "/p/d/d7/RoomsBeach-TeenBeachMovieSummerJam.swf",
+    "dock": "/p/1/13/RoomsDock-TeenBeachMovieSummerJam.swf",
+    "forts": "/p/e/e5/RoomsForts-TeenBeachMovieSummerJam.swf",
+    "rink": "/p/1/12/RoomsRink-TeenBeachMovieSummerJam.swf",
+    "forest": "/p/a/a4/RoomsForest-TeenBeachMovieSummerJam.swf",
+    "cove": "/p/6/60/RoomsCove-TeenBeachMovieSummerJam.swf",
+    "party1": "/p/c/c8/RoomsParty1-TeenBeachMovieSummerJam.swf",
+    "party2": "/p/b/b5/RoomsParty2-TeenBeachMovieSummerJam.swf",
+    "party3": "/p/1/14/RoomsParty3-TeenBeachMovieSummerJam.swf",
+    "party4": "/p/b/b1/RoomsParty4-TeenBeachMovieSummerJam.swf"
+  }
+}

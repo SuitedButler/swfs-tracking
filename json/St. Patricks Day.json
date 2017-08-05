@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "room": {
+    "town": "/c/2009/stpatricksparty2009/town.swf",
+    "coffee": "/c/2009/stpatricksparty2009/coffee.swf",
+    "dance": "/c/2009/stpatricksparty2009/dance.swf",
+    "forts": "/c/2009/stpatricksparty2009/forts.swf",
+    "plaza": "/c/2009/stpatricksparty2009/plaza.swf",
+    "stage": "/c/2009/stpatricksparty2009/stage.swf",
+    "forest": "/c/2009/stpatricksparty2009/forest.swf",
+    "party": "/c/2009/stpatricksparty2009/party.swf",
+    "dock": "/c/2009/stpatricksparty2009/dock.swf",
+    "berg": "/c/2009/stpatricksparty2009/berg.swf",
+    "attic": "/c/2009/stpatricksparty2009/attic.swf",
+    "mtn": "/c/2009/stpatricksparty2009/20090313_mtn.swf"
+  }
+}

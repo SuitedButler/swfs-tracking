@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "room": {
+    "coffee": "/p/7/7d/RoomsCoffee-SoundStudioParty2015.swf",
+    "dock": "/p/c/cb/RoomsDock-SoundStudioParty2015.swf",
+    "forest": "/p/1/18/RoomsForest-SoundStudioParty2015.swf",
+    "plaza": "/p/a/a2/RoomsPlaza-SoundStudioParty2015.swf",
+    "forts": "/p/6/62/RoomsForts-SoundStudioParty2015.swf",
+    "rink": "/p/b/bb/RoomsRink-SoundStudioParty2015.swf",
+    "stage": "/p/f/f6/RoomsStage-SoundStudioParty2015.swf",
+    "town": "/p/4/4d/RoomsTown-SoundStudioParty2015.swf",
+    "party1": "/p/8/87/RoomsParty1-SoundStudioParty2015.swf",
+    "party2": "/p/f/fd/RoomsParty2-SoundStudioParty2015.swf",
+    "party3": "/p/4/47/RoomsParty3-SoundStudioParty2015.swf",
+    "party4": "/p/c/c8/RoomsParty4-SoundStudioParty2015.swf",
+    "party5": "/p/7/7a/RoomsParty5-SoundStudioParty2015.swf",
+    "partysolo1": "/p/5/53/RoomsPartysolo1-SoundStudioParty2015.swf",
+    "partysolo2": "/p/9/99/RoomsPartysolo2-SoundStudioParty2015.swf",
+    "partysolo3": "/p/6/6a/RoomsPartysolo3-SoundStudioParty2015.swf",
+    "partysolo4": "/p/0/07/RoomsPartysolo4-SoundStudioParty2015.swf"
+  }
+}

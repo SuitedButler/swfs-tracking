@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "room": {
+    "cove": "/p/6/60/RoomsCove-WaddleOnParty.swf",
+    "dock": "/p/9/94/RoomsDock-WaddleOnParty.swf",
+    "dojoext": "/p/e/e5/RoomsDojoext-WaddleOnParty.swf",
+    "agentlobbymulti": "/p/9/90/RoomsAgentlobbymulti-WaddleOnParty.swf",
+    "forest": "/p/a/a6/RoomsForest-WaddleOnParty.swf",
+    "rink": "/p/2/24/RoomsRink-WaddleOnParty.swf",
+    "berg": "/p/2/27/RoomsBerg-WaddleOnParty.swf",
+    "shack": "/p/8/89/RoomsShack-WaddleOnParty.swf",
+    "plaza": "/p/f/f3/RoomsPlaza-WaddleOnParty.swf",
+    "village": "/p/1/15/RoomsVillage-WaddleOnParty.swf",
+    "forts": "/p/a/a1/RoomsForts-WaddleOnParty.swf",
+    "town": "/p/c/c6/RoomsTown-WaddleOnParty.swf"
+  }
+}

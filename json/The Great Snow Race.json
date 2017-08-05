@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "room": {
+    "party3": "/p/0/04/TheGreatSnowRaceParty3.swf",
+    "party10": "/p/b/b0/TheGreatSnowRaceParty10.swf",
+    "party6": "/p/4/48/TheGreatSnowRaceParty6.swf",
+    "party2": "/p/b/bd/TheGreatSnowRaceParty2.swf",
+    "party7": "/p/0/06/TheGreatSnowRaceParty7.swf",
+    "party8": "/p/9/9e/TheGreatSnowRaceParty8.swf",
+    "party9": "/p/5/5c/TheGreatSnowRaceParty9.swf",
+    "party4": "/p/3/34/TheGreatSnowRaceParty4.swf",
+    "party5": "/p/4/48/TheGreatSnowRaceParty5.swf",
+    "plaza": "/p/d/db/TheGreatSnowRacePlaza.swf",
+    "village": "/p/f/f4/TheGreatSnowRaceVillage.swf",
+    "party1": "/p/4/46/TheGreatSnowRaceParty1.swf"
+  }
+}

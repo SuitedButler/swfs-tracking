@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "room": {
+    "party1": "/p/7/74/MuppetsWorldTourParty1.swf",
+    "beach": "/p/2/2a/MuppetsWorldTourBeach.swf",
+    "shop": "/p/4/4b/MuppetsWorldTourShop.swf",
+    "cove": "/p/7/78/MuppetsWorldTourCove.swf",
+    "dock": "/p/f/fc/MuppetsWorldTourDock.swf",
+    "forest": "/p/3/33/MuppetsWorldTourForest.swf",
+    "plaza": "/p/6/62/MuppetsWorldTourPlaza.swf",
+    "village": "/p/6/6e/MuppetsWorldTourVillage.swf",
+    "forts": "/p/0/0d/MuppetsWorldTourForts.swf",
+    "stadium": "/p/c/c7/MuppetsWorldTourStadium.swf",
+    "stage": "/p/b/be/MuppetsWorldTourStage.swf",
+    "town": "/p/c/cf/MuppetsWorldTourTown.swf"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "room": {
+    "beach": "/p/5/51/RoomsBeach-PirateParty2014.swf",
+    "cove": "/p/2/23/RoomsCove-PirateParty2014.swf",
+    "dock": "/p/5/51/RoomsDock-PirateParty2014.swf",
+    "forest": "/p/a/aa/RoomsForest-PirateParty2014.swf",
+    "plaza": "/p/e/ef/RoomsPlaza-PirateParty2014.swf",
+    "forts": "/p/8/88/RoomsForts-PirateParty2014.swf",
+    "town": "/p/3/3d/RoomsTown-PirateParty2014.swf",
+    "partysolo1": "/p/f/ff/RoomsPartysolo1-PirateParty2014.swf"
+  }
+}
