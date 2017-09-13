@@ -15,7 +15,7 @@ request(partyApi, function(error, response, body) {
     console.log(JSON.stringify(JSON.parse(body), null, 2));
     var parties = JSON.parse(body);
     async.eachSeries(parties, function(p, callback) {
-        var dir = './swfs/' + p.year + '/' + p.party_label + '/';
+        var dir = './swfs/' + p.year + '/' + p.party_label.replace(':', '') + '/';
         fs.ensureDirSync(dir);
         console.log(dir);
 
